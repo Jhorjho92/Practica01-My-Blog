@@ -3,7 +3,7 @@ Práctica de html
 
 1. Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”
 
-
+https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura1.PNG
 
 2. Realizar un commit y push por cada requerimiento de los puntos antes descritos.
 
