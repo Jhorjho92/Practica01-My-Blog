@@ -3,31 +3,32 @@ Práctica de html
 
 1. Crear un repositorio en GitHub con el nombre “Practica01 – Mi Blog”
 
-https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura1.PNG
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura1.PNG)
 
 2. Realizar un commit y push por cada requerimiento de los puntos antes descritos.
 
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura2.PNG)
 
 3. Al finalizar la práctica se debe validar todas las páginas HTML creadas usando el W3C Validator.
 
 Validación de página Index.html
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura3.PNG)
 
 Validación de página Contacto.html
 
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura4.PNG)
 
 Validación de pagina nosotros.html
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura5.PNG)
 
 Validación de pagina servicios.html
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura6.PNG)
 
 Validación de página ubicación.html
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura7.PNG)
 
 4. Luego, se debe crear el archivo README del repositorio de GitHub.
-
+![](https://github.com/Jhorjho92/Practica01-My-Blog/blob/master/readme/Captura8.PNG)
 
 5. Generar informe de los resultados en el formato de prácticas. Debe incluir:
        a. El desarrollo de cada uno de los puntos antes descritos así como las etiquetas HTML utilizadas para resolver cada punto.
@@ -50,6 +51,7 @@ Validación de página ubicación.html
                 <li><a href="./documentos/mobile/ubicacion.html">UBICANOS</a></li>
             </ul>
         </header>
+           
         
         <section class="seccion">
             
